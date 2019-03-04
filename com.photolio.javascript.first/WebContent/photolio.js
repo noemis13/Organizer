@@ -17,6 +17,10 @@ function w3_open() {
 function w3_close() {
   document.getElementById("mySidebar").style.display = "none";
 }
+//Home
+function w3_home(){
+	window.open('index.html', '');
+}
 
 //About
 function w3_about() {

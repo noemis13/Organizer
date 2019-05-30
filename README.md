@@ -1,3 +1,3 @@
 # Photolio
 
-Personal websit
+Personal website
